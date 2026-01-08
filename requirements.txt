@@ -1,38 +1,12 @@
-# Core Scientific
 numpy
 pandas
-
-# Machine Learning
+ipykernal
 scikit-learn
 xgboost
-lightgbm
-catboost
-
-# Data Visualization
+streamlit
 matplotlib
 seaborn
-plotly
-
-# Deep Learning
 tensorflow
 keras
-
-# NLP
 nltk
 gensim
-
-# Computer Vision
-opencv-python
-pillow
-scikit-image
-
-# Jupyter & Utilities
-jupyter
-notebook
-jupyterlab
-tqdm
-
-# Model Explainability
-shap
-lime
-mlxtend
